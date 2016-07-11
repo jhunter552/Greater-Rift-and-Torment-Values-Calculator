@@ -16,5 +16,10 @@ namespace Greater_Rift_and_Torment_Values_Calculator
         {
             InitializeComponent();
         }
+
+        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
